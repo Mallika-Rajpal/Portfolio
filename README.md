@@ -1,4 +1,4 @@
-# Beautiful Portfolio
+# My Portfolio
 
 A modern, clean, and aesthetic developer portfolio built with React, Tailwind CSS, and Vite. Perfect for showcasing my projects, skills, and experience in a sleek interface.
 
